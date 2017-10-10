@@ -1,0 +1,1744 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Shop:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../Shop/src/shop/service/FindProductService.java" description="public List&lt;Product&gt; findHotProductService() {" line="10" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7fb1241d-dc62-4868-bb65-7b62175d9fbb" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/lib/javax.annotation.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/lib/javax.ejb.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/lib/javax.jms.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/lib/javax.persistence.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/lib/javax.resource.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/lib/javax.servlet.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/lib/javax.servlet.jsp.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/lib/javax.transaction.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Classes/shop/dao/CheckUserNameDao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Classes/shop/dao/DaoCode.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Classes/shop/dao/FindPageBeanDao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Classes/shop/dao/FindProductDao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Classes/shop/dao/UserDao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Classes/shop/daomian/Category.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Classes/shop/daomian/PageBean.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Classes/shop/daomian/Product.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Classes/shop/daomian/User.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Classes/shop/service/CheckUserName.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Classes/shop/service/FindPageBean.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Classes/shop/service/FindProductService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Classes/shop/service/ServiceCode.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Classes/shop/service/UserService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Classes/shop/util/CommUtils.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Classes/shop/util/DataSourceUtils.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Classes/shop/util/JedisPoolUtils.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Classes/shop/util/MD5Utils.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Classes/shop/util/MailUtils$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Classes/shop/util/MailUtils.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Classes/shop/web/servlet/ActiveServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Classes/shop/web/servlet/FindCategoryServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Classes/shop/web/servlet/FindProductServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Classes/shop/web/servlet/Product_ListServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Classes/shop/web/servlet/RegisterServlete$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Classes/shop/web/servlet/RegisterServlete.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Classes/shop/web/servlet/checkUserName.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Lib/c3p0-0.9.1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Lib/commons-beanutils-1.8.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Lib/commons-dbutils-1.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Lib/commons-fileupload-1.2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Lib/commons-io-1.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Lib/commons-logging-1.1.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Lib/commons-pool2-2.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Lib/gson-2.2.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Lib/jedis-2.7.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Lib/jstl.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Lib/mail.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Lib/mysql-connector-java-5.0.4-bin.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Lib/standard.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/bank_img/abc.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/bank_img/bc.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/bank_img/bcc.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/bank_img/beijingnongshang.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/bank_img/bh.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/bank_img/bj.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/bank_img/ccb.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/bank_img/cib.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/bank_img/cmb.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/bank_img/cmbc.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/bank_img/dy.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/bank_img/gf.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/bank_img/guangda.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/bank_img/hx.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/bank_img/icbc.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/bank_img/nanjing.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/bank_img/ningbo.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/bank_img/pingan.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/bank_img/post.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/bank_img/sfz.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/bank_img/sh.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/bank_img/shpd.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/bank_img/zheshang.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/bank_img/zx.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/059b5245-e3c8-43bf-80fe-700f0e4e68b8-thumbnail.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/0ff130db-0a1b-4b8d-a918-ed9016317009-thumbnail.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/4a51167a-89d5-4710-aca2-7c76edc355b8-thumbnail.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/51afeef5-f6cb-4936-abea-315cfca0edc0-thumbnail.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/54890cf9-91b0-40bc-9f68-51462e9c43a8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/750a9ce8-8c19-444d-b8cc-f3e7e786ec5d-thumbnail.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/93b9e55f-cbae-4c3c-b2f7-2636c7369db7-thumbnail.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/adidas.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/beijirong.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/bigPic13867cc1-935a-4a3a-98f9-edf87ddb1c09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/bigPic372e7faa-3ad0-444d-a89b-a8e9f0d6e929.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/bigPic4ed6edbf-fb3e-49a7-be5e-361b2ce02961.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/bigPic5ab54f67-a479-48fe-a41d-7d34b57036a3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/bigPica5720219-ba48-460a-a084-24d5b314bd03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/bigPica7e5d3dd-5984-4d0f-9851-35cc0987d9b9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/bigPicaa443d05-27b4-4964-958e-c81536f01d04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/bigPicc1e3a29e-17f5-4d9f-a186-b2c5a0b39b88.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/bigPicd0459632-fe4e-4a5d-8373-1a67c9f43ec2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/bigPice7c2e240-4147-4c11-b369-db3765ec3df9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/bigPicee0785e3-68e2-4e23-93ef-68904bc2a3c6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/captcha (2).jhtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/captcha.jhtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/cart.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/common.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/d.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/dadonggua.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/e.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/eifini.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/f.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/f37ba36a-181b-4161-a88f-f74c9adb485d-thumbnail.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/f5e39c37-94b2-462e-8e58-8bde3c5f1b8c-thumbnail.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/footer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/g.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/h.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/header.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/hengyuanxiang.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/i.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/index_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/index_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/index_right.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/index_top.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/j.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/jackjones.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/k.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/l.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/lining.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/login.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/logo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/m.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/maoren.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/n.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/nike.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/o.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/p.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/product.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/r___________renleipic_01/15.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/r___________renleipic_01/bigPic139f030b-d68b-41dd-be6d-b94cc568d3c5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/r___________renleipic_01/bigPic19533252-0faa-4e64-8077-6e1908f47739.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/r___________renleipic_01/bigPic1ea8f1c9-8b8e-4262-8ca9-690912434692.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/r___________renleipic_01/bigPic5f3622b8-028a-4e62-a77f-f41a16d715ed.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/r___________renleipic_01/footer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/r___________renleipic_01/header.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/r___________renleipic_01/logo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/r___________renleipic_01/logo1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/r___________renleipic_01/product.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/registImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/regist_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/semir.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/sentubila.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/septwolves.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/sundance.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/vimly.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/yishion.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/IconTexto_WebDev_009.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/article.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/cart.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/cart1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/common.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/dialog_overlay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/error.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/finalbutton.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/gif53_029.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/i_del.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/i_edit.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/index.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/info.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/loading_bar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/loading_icon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/login.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/loginbg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/member.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/message.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/mis_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/mis_05a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/mis_05b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/mis_05c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/order.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/password.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/product.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/regist_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/register.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/review.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/shim.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/title2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/top_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/top_100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/tree/base.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/tree/cd.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/tree/empty.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/tree/folder.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/tree/folderopen.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/tree/globe.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/tree/imgfolder.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/tree/join.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/tree/joinbottom.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/tree/line.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/tree/minus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/tree/minusbottom.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/tree/musicfolder.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/tree/nolines_minus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/tree/nolines_plus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/tree/page.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/tree/plus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/tree/plusbottom.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/tree/question.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/images/tree/trash.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/img/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/img/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/img/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/img/bartlesvillecf.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/img/emancipation.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/img/footer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/img/header.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/img/header.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/img/logo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/img/logo2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/img/okwu-athletics.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/img/okwu.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/img/title2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/556d64fcNf28f90d0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0001.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0002.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0003.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0004.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0005.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0006.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0007.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0008.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0009.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0010.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0011.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0012.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0013.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0014.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0015.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0016.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0017.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0018.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0019.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0020.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0021.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0022.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0023.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0024.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0025.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0026.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0027.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0028.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0029.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0030.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0031.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0032.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0033.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0034.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0035.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0036.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0037.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0038.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0039.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0040.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0041.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0042.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0043.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0044.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0045.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0046.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0047.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0048.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0049.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/c_0050.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs10001.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs10002.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs10003.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs10004.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs10005.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs10006.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs10007.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs10008.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs10009.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs10010.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs20001.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs20002.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs20003.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs20004.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs20005.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs20006.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs20007.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs20008.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs20009.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs20010.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs30001.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs30002.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs30003.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs30004.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs30005.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs30006.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs30007.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs30008.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs30009.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs30010.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs40001.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs40002.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs40003.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs40004.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs40005.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs40006.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs40007.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs40008.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs40009.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs40010.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs40011.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs50001.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs50002.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs50003.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs50004.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs50005.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs50006.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs50007.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs50008.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs50009.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs50010.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs60001.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs60002.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs60003.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs60004.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs60005.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs60006.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs60007.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs60008.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs60009.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs60010.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs70001.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs70002.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs70003.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs70004.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs70005.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs70006.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs70007.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs70008.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs70009.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/cs70010.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/duanxue1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/duanxue2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/duanxue3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/duanxue4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/1/nvxie.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/155210007679548_y.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/562d008aN963ce5f2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/5632bdf8N789e6659.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/5632c2eeNbc918af0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/90560009093007_y.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/c_0001.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/c_0002.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/c_0003.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/c_0004.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/c_0005.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/c_0006.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/c_0007.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/dn1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/dn2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/f001a62f-a49d-4a4d-b56f-2b6908a0002c_g.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/hao/ad.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/hao/big01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/hao/middle01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/hao/small01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/hao/small02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/hao/small03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/hao/small04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/hao/small05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/hao/small06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/hao/small07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/hao/small08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/hao/small09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/news_left.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/products/news_right.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/.idea/artifacts/Shop_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/.idea/codeStyleSettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/.idea/dataSources.local.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/.idea/dataSources/4b5e7530-fe4f-4530-9d27-aef987cd743b.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/.idea/libraries/Java_EE_6_Java_EE_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/.idea/libraries/Lib.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/Shop.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/src/c3p0-config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/src/redis.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/src/shop/dao/CheckUserNameDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/src/shop/dao/DaoCode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/src/shop/dao/FindPageBeanDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/src/shop/dao/FindProductDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/src/shop/dao/UserDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/src/shop/daomian/Category.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/src/shop/daomian/PageBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/src/shop/daomian/Product.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/src/shop/daomian/User.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/src/shop/service/CheckUserName.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/src/shop/service/FindPageBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/src/shop/service/FindProductService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/src/shop/service/ServiceCode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/src/shop/service/UserService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/src/shop/util/CommUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/src/shop/util/DataSourceUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/src/shop/util/JedisPoolUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/src/shop/util/MD5Utils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/src/shop/util/MailUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/src/shop/web/servlet/ActiveServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/src/shop/web/servlet/FindCategoryServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/src/shop/web/servlet/FindProductServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/src/shop/web/servlet/Product_ListServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/src/shop/web/servlet/RegisterServlete.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/src/shop/web/servlet/checkUserName.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Classes/c3p0-config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/Classes/redis.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/admin/bottom.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/admin/category/add.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/admin/category/edit.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/admin/category/list.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/admin/home.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/admin/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/admin/left.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/admin/product/add.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/admin/product/edit.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/admin/product/list.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/admin/top.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/admin/welcome.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/cart.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/css/Style1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/css/dtree.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/css/left.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/default.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/footer.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/header.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/My97DatePicker.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/base64.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/cart.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/common.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/common.css.bak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/datepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/jsbn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/product.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/register.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/image/slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/info.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/js/dtree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/js/jquery-1.11.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/js/jquery.validate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/login.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/order_info.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/order_list.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/product_info.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/product_list.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/register.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/registerFail.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Shop/web/registerSuccess.jsp" />
+    </list>
+    <ignored path="$PROJECT_DIR$/../Shop/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="mybase@localhost" type="e3449647:DbNodeDescriptor" />
+      </path>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="mybase@localhost" type="e3449647:DbNodeDescriptor" />
+        <item name="mybase" type="e3449647:DbNodeDescriptor" />
+      </path>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="mybase@localhost" type="e3449647:DbNodeDescriptor" />
+        <item name="mybase" type="e3449647:DbNodeDescriptor" />
+        <item name="product" type="e3449647:DbNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Shop" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Shop/web/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="15" column="58" lean-forward="false" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Shop/web/header.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="341">
+              <caret line="59" column="107" lean-forward="false" selection-start-line="59" selection-start-column="51" selection-end-line="59" selection-end-column="117" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Product_ListServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Shop/src/shop/web/servlet/Product_ListServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindPageBean.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Shop/src/shop/service/FindPageBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="17" column="44" lean-forward="false" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindPageBeanDao.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Shop/src/shop/dao/FindPageBeanDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="329">
+              <caret line="15" column="57" lean-forward="false" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="product_list.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Shop/web/product_list.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1166">
+              <caret line="53" column="20" lean-forward="false" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#1839#1846#1#HTML" expanded="true" />
+                <element signature="e#2183#2190#1#HTML" expanded="true" />
+                <element signature="e#3039#3046#1#HTML" expanded="true" />
+                <element signature="e#3390#3397#1#HTML" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#ul#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Shop" />
+  </component>
+  <component name="GotoClassSymbolConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="Angular2HTML" />
+      <filtered-out-file-type name="AngularJS" />
+      <filtered-out-file-type name="Apple JS" />
+      <filtered-out-file-type name="Asp" />
+      <filtered-out-file-type name="AspectJ" />
+      <filtered-out-file-type name="CFML" />
+      <filtered-out-file-type name="CSS" />
+      <filtered-out-file-type name="CoffeeScript" />
+      <filtered-out-file-type name="CoffeeScriptLiterate" />
+      <filtered-out-file-type name="DB2" />
+      <filtered-out-file-type name="DTD" />
+      <filtered-out-file-type name="Decompiled SWF" />
+      <filtered-out-file-type name="Derby" />
+      <filtered-out-file-type name="Drools" />
+      <filtered-out-file-type name="ECMA Script Level 4" />
+      <filtered-out-file-type name="ECMAScript 6" />
+      <filtered-out-file-type name="EJBQL" />
+      <filtered-out-file-type name="EL" />
+      <filtered-out-file-type name="EQL" />
+      <filtered-out-file-type name="FTL" />
+      <filtered-out-file-type name="FTL&gt;" />
+      <filtered-out-file-type name="FTL]" />
+      <filtered-out-file-type name="Flow JS" />
+      <filtered-out-file-type name="GSP" />
+      <filtered-out-file-type name="GWT JavaScript" />
+      <filtered-out-file-type name="GWT-CSS" />
+      <filtered-out-file-type name="GenericSQL" />
+      <filtered-out-file-type name="Gherkin" />
+      <filtered-out-file-type name="Groovy" />
+      <filtered-out-file-type name="H2" />
+      <filtered-out-file-type name="HQL" />
+      <filtered-out-file-type name="HSQLDB" />
+      <filtered-out-file-type name="HTML" />
+      <filtered-out-file-type name="Haml" />
+      <filtered-out-file-type name="InjectedFreeMarker" />
+      <filtered-out-file-type name="JAVA" />
+      <filtered-out-file-type name="JPAQL" />
+      <filtered-out-file-type name="JQL" />
+      <filtered-out-file-type name="JQuery-CSS" />
+      <filtered-out-file-type name="JSON" />
+      <filtered-out-file-type name="JSP" />
+      <filtered-out-file-type name="JSPX" />
+      <filtered-out-file-type name="JSRegexp" />
+      <filtered-out-file-type name="JSX Harmony" />
+      <filtered-out-file-type name="JavaScript" />
+      <filtered-out-file-type name="JavaScript 1.5" />
+      <filtered-out-file-type name="JavaScript 1.6" />
+      <filtered-out-file-type name="JavaScript 1.7" />
+      <filtered-out-file-type name="JavaScript 1.8" />
+      <filtered-out-file-type name="LESS" />
+      <filtered-out-file-type name="Manifest" />
+      <filtered-out-file-type name="Markdown" />
+      <filtered-out-file-type name="Mxml" />
+      <filtered-out-file-type name="MySQL" />
+      <filtered-out-file-type name="Nashorn JS" />
+      <filtered-out-file-type name="OGNL" />
+      <filtered-out-file-type name="Oracle" />
+      <filtered-out-file-type name="OracleSqlPlus" />
+      <filtered-out-file-type name="Play" />
+      <filtered-out-file-type name="PointcutExpression" />
+      <filtered-out-file-type name="PostgreSQL" />
+      <filtered-out-file-type name="PostgresPLSQL" />
+      <filtered-out-file-type name="Properties" />
+      <filtered-out-file-type name="RELAX-NG" />
+      <filtered-out-file-type name="Redshift" />
+      <filtered-out-file-type name="RegExp" />
+      <filtered-out-file-type name="SASS" />
+      <filtered-out-file-type name="SCSS" />
+      <filtered-out-file-type name="SPI" />
+      <filtered-out-file-type name="SQL" />
+      <filtered-out-file-type name="SQL92" />
+      <filtered-out-file-type name="SQLite" />
+      <filtered-out-file-type name="SpEL" />
+      <filtered-out-file-type name="SpringDataQL" />
+      <filtered-out-file-type name="Stylus" />
+      <filtered-out-file-type name="Sybase" />
+      <filtered-out-file-type name="TEXT" />
+      <filtered-out-file-type name="TML" />
+      <filtered-out-file-type name="TSQL" />
+      <filtered-out-file-type name="ThymeleafExpressions" />
+      <filtered-out-file-type name="ThymeleafIterateExpressions" />
+      <filtered-out-file-type name="ThymeleafSpringSecurityExtras" />
+      <filtered-out-file-type name="ThymeleafTemplatesExpressions" />
+      <filtered-out-file-type name="ThymeleafUrlExpressions" />
+      <filtered-out-file-type name="TypeScript" />
+      <filtered-out-file-type name="TypeScript JSX" />
+      <filtered-out-file-type name="UAST" />
+      <filtered-out-file-type name="UastContextLanguage" />
+      <filtered-out-file-type name="VTL" />
+      <filtered-out-file-type name="XHTML" />
+      <filtered-out-file-type name="XML" />
+      <filtered-out-file-type name="XPath" />
+      <filtered-out-file-type name="XPath2" />
+      <filtered-out-file-type name="YouTrack" />
+      <filtered-out-file-type name="kotlin" />
+      <filtered-out-file-type name="yaml" />
+    </file-type-list>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../Shop/src/c3p0-config.xml" />
+        <option value="$PROJECT_DIR$/../Shop/src/shop/util/DataSourceUtils.java" />
+        <option value="$PROJECT_DIR$/../Shop/src/shop/util/MD5Utils.java" />
+        <option value="$PROJECT_DIR$/../Shop/src/shop/web/Servlet.java" />
+        <option value="$PROJECT_DIR$/../Shop/src/shop/web/servlet/RegisterServlet.java" />
+        <option value="$PROJECT_DIR$/../Shop/lib/javax.servlet.jar!/javax/servlet/http/HttpServlet.class" />
+        <option value="$PROJECT_DIR$/../Shop/src/shop/util/CommUtils.java" />
+        <option value="$PROJECT_DIR$/../Shop/src/shop/service/UserService.java" />
+        <option value="$PROJECT_DIR$/../Shop/src/shop/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/../Shop/src/shop/web/servlet/RServletegister.java" />
+        <option value="$PROJECT_DIR$/../Shop/src/shop/daomian/User.java" />
+        <option value="$PROJECT_DIR$/../Shop/src/shop/util/MailUtils.java" />
+        <option value="$PROJECT_DIR$/../Shop/src/shop/service/ServiceCode.java" />
+        <option value="$PROJECT_DIR$/../Shop/src/shop/web/servlet/RegisterServlete.java" />
+        <option value="$PROJECT_DIR$/../Shop/src/shop/web/servlet/ActiveServlet.java" />
+        <option value="$PROJECT_DIR$/../Shop/src/shop/dao/DaoCode.java" />
+        <option value="$PROJECT_DIR$/../Shop/src/shop/service/CheckUserName.java" />
+        <option value="$PROJECT_DIR$/../Shop/src/shop/web/servlet/checkUserName.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/4b5e7530-fe4f-4530-9d27-aef987cd743b/console_1.sql" />
+        <option value="$PROJECT_DIR$/../Shop/src/shop/dao/CheckUserNameDao.java" />
+        <option value="$PROJECT_DIR$/../Shop/web/register.jsp" />
+        <option value="$PROJECT_DIR$/../Shop/src/shop/daomian/Product.java" />
+        <option value="$PROJECT_DIR$/../Shop/src/shop/daomian/Category.java" />
+        <option value="$PROJECT_DIR$/../Shop/web/default.jsp" />
+        <option value="$PROJECT_DIR$/../Shop/src/shop/service/FindProductService.java" />
+        <option value="$PROJECT_DIR$/../Shop/src/shop/web/servlet/FindProductServlet.java" />
+        <option value="$PROJECT_DIR$/../Shop/src/shop/dao/FindProductDao.java" />
+        <option value="$PROJECT_DIR$/../Shop/src/redis.properties" />
+        <option value="$PROJECT_DIR$/../Shop/src/shop/util/JedisPoolUtils.java" />
+        <option value="$PROJECT_DIR$/../Shop/src/shop/web/servlet/FindCategoryServlet.java" />
+        <option value="$PROJECT_DIR$/../Shop/web/index.jsp" />
+        <option value="$PROJECT_DIR$/../Shop/src/shop/daomian/PageBean.java" />
+        <option value="$PROJECT_DIR$/../Shop/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/../Shop/web/header.jsp" />
+        <option value="$PROJECT_DIR$/../Shop/src/shop/web/servlet/Product_ListServlet.java" />
+        <option value="$PROJECT_DIR$/../Shop/web/product_list.jsp" />
+        <option value="$PROJECT_DIR$/../Shop/src/shop/service/FindPageBean.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/4b5e7530-fe4f-4530-9d27-aef987cd743b/console.sql" />
+        <option value="$PROJECT_DIR$/../Shop/src/shop/dao/FindPageBeanDao.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="false" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1" />
+    <option name="y" value="1" />
+    <option name="width" value="1662" />
+    <option name="height" value="994" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages ProjectPane="false" />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="daomian" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="servlet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shop" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Shop" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="SearchEverywhereHistoryKey" value="M&#9;FILE&#9;file://E:/Shop/src/shop/util/MailUtils.java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="shop.dao" />
+      <recent name="shop.service" />
+      <recent name="shop.daomian" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Shop\web\WEB-INF\Lib" />
+      <recent name="E:\Shop\web\js" />
+      <recent name="E:\Shop\web" />
+      <recent name="E:\Shop\src\shop\util" />
+      <recent name="E:\Shop\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.MyTomCat">
+    <configuration name="MD5Utils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="shop.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="shop.util.MD5Utils" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Shop" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Shop" />
+      <envs />
+    </configuration>
+    <configuration name="MyTomCat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.52" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="COMMON_VM_ARGUMENTS" value=" -Dfile.encoding=UTF-8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Shop:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/shop" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Shop" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="10248" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Shop:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Shop" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.MyTomCat" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MD5Utils" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.MD5Utils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fb1241d-dc62-4868-bb65-7b62175d9fbb" name="Default" comment="" />
+      <created>1506079822289</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1506079822289</updated>
+      <workItem from="1506079826453" duration="5525000" />
+      <workItem from="1506086861179" duration="1833000" />
+      <workItem from="1506149097081" duration="1559000" />
+      <workItem from="1506150743101" duration="972000" />
+      <workItem from="1506151865371" duration="1578000" />
+      <workItem from="1506155237872" duration="2504000" />
+      <workItem from="1506157866969" duration="7700000" />
+      <workItem from="1506167008691" duration="5874000" />
+      <workItem from="1506247105264" duration="5215000" />
+      <workItem from="1506252608118" duration="7654000" />
+      <workItem from="1506328040502" duration="5126000" />
+      <workItem from="1506508942655" duration="5647000" />
+      <workItem from="1506514625881" duration="3353000" />
+      <workItem from="1506584784133" duration="6163000" />
+      <workItem from="1506590982003" duration="116000" />
+      <workItem from="1506591301630" duration="10963000" />
+      <workItem from="1506604328965" duration="331000" />
+      <workItem from="1506604802622" duration="830000" />
+      <workItem from="1506673404113" duration="14482000" />
+      <workItem from="1507553795204" duration="4608000" />
+      <workItem from="1507620362645" duration="5244000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="97277000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277592" sideWeight="0.4880597" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33667782" sideWeight="0.4910448" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28985506" sideWeight="0.5079957" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32887402" sideWeight="0.49701494" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32664436" sideWeight="0.49200428" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3188406" sideWeight="0.49701494" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277592" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2457356" sideWeight="0.47309834" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17430703" sideWeight="0.52690166" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26066098" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2496879" sideWeight="0.4874214" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3979933" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17430703" sideWeight="0.52396876" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2909699" sideWeight="0.5079957" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32887402" sideWeight="0.49701494" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.4874214" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39910814" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277592" sideWeight="0.4880597" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33667782" sideWeight="0.4910448" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32998884" sideWeight="0.49200428" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3188406" sideWeight="0.49701494" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32887402" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1716418" sideWeight="0.4716981" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.51059085" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14658849" sideWeight="0.5283019" order="5" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../Shop/src/shop/web/servlet/checkUserName.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../Shop/src/shop/dao/CheckUserNameDao.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../Shop/src/shop/service/CheckUserName.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="java-exception">
+          <dependency id="0" />
+          <properties />
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="115" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="das://table:/9a35bb4b/4b5e7530-fe4f-4530-9d27-aef987cd743b/mybase.sys_user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shop/src/c3p0-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shop/src/shop/util/MailUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shop/web/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1760">
+          <caret line="80" column="0" lean-forward="false" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shop/web/js/jquery.validate.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shop/src/shop/dao/DaoCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shop/src/shop/web/servlet/RegisterServlete.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/9a35bb4b/4b5e7530-fe4f-4530-9d27-aef987cd743b/mybase.user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/4b5e7530-fe4f-4530-9d27-aef987cd743b/console_1.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="38" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shop/src/shop/service/ServiceCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shop/src/shop/dao/CheckUserNameDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shop/src/shop/service/CheckUserName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shop/src/shop/web/servlet/checkUserName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shop/web/register.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3785">
+          <caret line="13" column="62" lean-forward="false" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shop/src/shop/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shop/src/shop/daomian/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shop/src/shop/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" column="61" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/4b5e7530-fe4f-4530-9d27-aef987cd743b/console_2.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shop/web/default.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shop/src/shop/daomian/Category.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shop/src/shop/daomian/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="18" column="24" lean-forward="false" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding>
+            <element signature="e#418#419#0" expanded="false" />
+            <element signature="e#449#450#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/4b5e7530-fe4f-4530-9d27-aef987cd743b/console_3.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/9a35bb4b/4b5e7530-fe4f-4530-9d27-aef987cd743b/mybase.category">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shop/src/redis.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shop/src/shop/util/JedisPoolUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="17" column="32" lean-forward="false" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shop/src/shop/daomian/PageBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="45" column="5" lean-forward="false" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+          <folding>
+            <element signature="e#244#245#0" expanded="false" />
+            <element signature="e#278#279#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shop/web/product_info.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-792">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shop/web/order_list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2112">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shop/web/order_info.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2046">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shop/web/cart.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1441">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shop/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="671">
+          <caret line="55" column="33" lean-forward="false" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Shop/lib/javax.servlet.jar!/javax/servlet/ServletRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="51" column="9" lean-forward="false" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shop/src/shop/util/DataSourceUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#474#475#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Shop/web/WEB-INF/Lib/c3p0-0.9.1.2.jar!/com/mchange/v2/c3p0/impl/AbstractPoolBackedDataSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Shop/web/WEB-INF/Lib/commons-dbutils-1.4.jar!/org/apache/commons/dbutils/AbstractQueryRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Shop/web/WEB-INF/Lib/commons-dbutils-1.4.jar!/org/apache/commons/dbutils/QueryRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="115" column="0" lean-forward="false" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Shop/web/WEB-INF/Lib/commons-dbutils-1.4.jar!/org/apache/commons/dbutils/handlers/BeanListHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shop/src/shop/web/servlet/FindProductServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shop/src/shop/dao/FindProductDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-62">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shop/src/shop/service/FindProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shop/src/shop/web/servlet/FindCategoryServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="21" column="57" lean-forward="true" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shop/src/shop/web/servlet/ActiveServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="5" column="182" lean-forward="false" selection-start-line="5" selection-start-column="182" selection-end-line="5" selection-end-column="182" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shop/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="15" column="58" lean-forward="false" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Shop/lib/javax.servlet.jar!/javax/servlet/http/HttpServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="177" column="0" lean-forward="false" selection-start-line="177" selection-start-column="0" selection-end-line="177" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shop/web/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="59" column="107" lean-forward="false" selection-start-line="59" selection-start-column="51" selection-end-line="59" selection-end-column="117" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shop/web/product_list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1166">
+          <caret line="53" column="20" lean-forward="false" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#1839#1846#1#HTML" expanded="true" />
+            <element signature="e#2183#2190#1#HTML" expanded="true" />
+            <element signature="e#3039#3046#1#HTML" expanded="true" />
+            <element signature="e#3390#3397#1#HTML" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shop/src/shop/web/servlet/Product_ListServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shop/src/shop/service/FindPageBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="17" column="44" lean-forward="false" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/9a35bb4b/4b5e7530-fe4f-4530-9d27-aef987cd743b/mybase.product">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/4b5e7530-fe4f-4530-9d27-aef987cd743b/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shop/src/shop/dao/FindPageBeanDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="15" column="57" lean-forward="false" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Shop:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (Shop)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Shop</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Java EE 6-Java EE 6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

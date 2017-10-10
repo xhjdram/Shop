@@ -1,0 +1,25 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="Shop:war exploded">
+    <output-path>$USER_HOME$/Desktop/apache-tomcat-7.0.52/webapps/shop</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Shop" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/../Shop/web/WEB-INF/Lib/c3p0-0.9.1.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../Shop/web/WEB-INF/Lib/commons-beanutils-1.8.3.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../Shop/web/WEB-INF/Lib/commons-io-1.4.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../Shop/web/WEB-INF/Lib/mysql-connector-java-5.0.4-bin.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../Shop/web/WEB-INF/Lib/mail.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../Shop/web/WEB-INF/Lib/standard.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../Shop/web/WEB-INF/Lib/jstl.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../Shop/web/WEB-INF/Lib/commons-fileupload-1.2.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../Shop/web/WEB-INF/Lib/commons-dbutils-1.4.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../Shop/web/WEB-INF/Lib/commons-logging-1.1.1.jar" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="Shop/web/Web" />
+    </root>
+  </artifact>
+</component>
